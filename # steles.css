@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(13, 159, 13);
+    color: white;
+    font-family: Roboto", sans-serif;
+    display flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(240, 255, 246) ;
+    color: white;
+    font-family: Roboto", sans-serif;
+}
