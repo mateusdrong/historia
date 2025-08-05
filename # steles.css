@@ -14,11 +14,3 @@ button {
     color: white;
     font-family: Roboto", sans-serif;
 }
-
-.passo {
-     display: none;
-}
-
-.passo.ativo {
-     display:block;
-}
